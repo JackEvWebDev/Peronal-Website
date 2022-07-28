@@ -1,1 +1,1 @@
-# Peronal-Website
+# Personal-Website
